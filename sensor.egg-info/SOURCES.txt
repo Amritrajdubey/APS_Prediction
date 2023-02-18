@@ -19,7 +19,7 @@ sensor/components/Model_Evaluation.py
 sensor/components/Model_Pusher.py
 sensor/components/Model_Trainer.py
 sensor/components/__init__.py
-sensor/components/data_ingestition.py
+sensor/components/data_ingestion.py
 sensor/components/data_transformation.py
 sensor/components/data_validation.py
 sensor/components/model_evaluation.py
