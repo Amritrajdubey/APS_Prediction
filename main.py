@@ -1,7 +1,7 @@
 from sensor.logger import logging
 from sensor.exception import SensorException
 import sys,os
-from sensor.entity import config_entity
+from sensor.entity import config_entity.DataIngestionConfig
 from datetime import datetime
 
 
