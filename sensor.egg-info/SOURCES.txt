@@ -1,10 +1,8 @@
 README.md
 setup.py
 sensor/__init.py
-sensor/__init__.py
 sensor/config.py
 sensor/exception.py
-sensor/exceptition.py
 sensor/logger.py
 sensor/predictor.py
 sensor.egg-info/PKG-INFO
@@ -12,12 +10,6 @@ sensor.egg-info/SOURCES.txt
 sensor.egg-info/dependency_links.txt
 sensor.egg-info/requires.txt
 sensor.egg-info/top_level.txt
-sensor/components/Data_Ingestion.py
-sensor/components/Data_Transformation.py
-sensor/components/Data_Validation.py
-sensor/components/Model_Evaluation.py
-sensor/components/Model_Pusher.py
-sensor/components/Model_Trainer.py
 sensor/components/__init__.py
 sensor/components/data_ingestion.py
 sensor/components/data_transformation.py
